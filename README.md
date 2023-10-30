@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @IgorKlimczak
 - 👀 I’m interested in programming, testing, machine learning, AI and martial arts/combat sports. 
 - 🌱 I’m currently learning Python, SQL. 
-- 📫 How to reach me: 
-mail: igor.klimczak@gmail.com
+- 📫 How to reach me:
+- mail: igor.klimczak@gmail.com
 linkedin: https://www.linkedin.com/in/igor-klimczak-b15300275/
 
 <!---
